@@ -1,0 +1,6 @@
+[git-together]
+	domain = e-gineering.com
+[git-together "authors"]
+	br = "Brad Russell; brad.russell"
+	rp = "Robbie Page; robbie.page"
+	cj = "Chris Jones; chris.jones"
